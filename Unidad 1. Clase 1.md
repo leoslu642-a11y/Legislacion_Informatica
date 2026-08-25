@@ -1,0 +1,4 @@
+Fecha: 24 agosto 26
+#Tarea Redactar un párrafo describiendo lo que espero de la materia conforme el temario.
+
+Espero que en esta clase pueda conocer y comprender mejor los aspectos legales y éticos relacionados con la inteligencia artificial, ya que considero importante saber no solo como desarrollar y utilizar estas tecnologías, sino también las responsabilidades que implica hacerlo. Me gustaría saber sobre la protección de datos personales, la privacidad, las regulaciones que existen actualmente y la manera en que la IA puede afectar los derechos de las personas. También espero conocer casos de la aplicación de la IA en diferentes sectores y entender los retos que pueden surgir, como la discriminación algorítmica o el uso indebido de la información. En general, espero que la clase me ayude a tener una visión más consiente y responsable sobre el desarrollo y uso de la inteligencia artificial, tomando en cuenta tanto sus beneficios como sus posibles consecuencias.
